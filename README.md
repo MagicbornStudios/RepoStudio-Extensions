@@ -74,3 +74,9 @@ Contributions are welcome:
 - Documentation updates and templates
 
 When adding a studio example, include provenance in README and keep source snapshots in `src/`.
+
+## Build validation
+
+Run 
+pm run build (or 
+pm run validate) in this repo to validate installable manifests/layout specs and studio example metadata/source folders.
