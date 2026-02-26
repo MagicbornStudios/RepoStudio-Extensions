@@ -1,0 +1,10 @@
+{
+  "workspaceId": "env-workspace",
+  "panelSpecs": [
+    { "id": "env-tree", "label": "Env", "rail": "left" },
+    { "id": "viewport", "label": "Viewport", "rail": "main" },
+    { "id": "assistant", "label": "Assistant", "rail": "right" }
+  ],
+  "mainPanelIds": ["viewport"],
+  "mainAnchorPanelId": "viewport"
+}

@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "id": "env-workspace",
+  "label": "Env Workspace",
+  "workspaceId": "env-workspace",
+  "workspaceKind": "env",
+  "description": "Installable Env workspace extension with scope tree and env file editor reference source.",
+  "layoutSpecPath": "layout.generated.json",
+  "assistant": {
+    "forge": {
+      "aboutWorkspace": {
+        "title": "Env Workspace",
+        "summary": "Manage .env files across project scopes with assistant support.",
+        "context": [
+          ".env",
+          "environment variables",
+          "project scopes"
+        ]
+      },
+      "tools": []
+    }
+  }
+}

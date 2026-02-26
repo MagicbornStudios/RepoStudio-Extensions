@@ -37,6 +37,7 @@ Studio examples are browse-only references. They appear in Repo Studio's Extensi
 Installable extensions:
 
 - `story`
+- `env-workspace`
 
 Studio examples:
 

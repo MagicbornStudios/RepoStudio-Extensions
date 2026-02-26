@@ -10,3 +10,10 @@ Installable Repo Studio extension that enables the Story workspace.
 - Forge tool proof: `forge_open_about_workspace`
 
 The host (Repo Studio) renders this extension using the built-in Story renderer and merges extension tools only when Story is the active workspace.
+
+## Source snapshot
+
+Reference source is included in src/:
+
+- StoryWorkspace.tsx`r
+- StoryPanel.tsx`r
