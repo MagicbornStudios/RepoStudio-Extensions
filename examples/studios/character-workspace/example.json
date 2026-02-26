@@ -1,0 +1,10 @@
+{
+  "id": "character-workspace",
+  "label": "Character Workspace",
+  "category": "studio-example",
+  "summary": "Reference Studio workspace showing character graph and assistant wiring.",
+  "sourceRepoUrl": "https://github.com/MagicbornStudios/RepoStudio-Extensions",
+  "sourcePath": "examples/studios/character-workspace",
+  "docsUrl": "https://github.com/MagicbornStudios/RepoStudio-Extensions/tree/main/examples/studios/character-workspace/README.md",
+  "tags": ["studio", "character", "workspace", "reference"]
+}

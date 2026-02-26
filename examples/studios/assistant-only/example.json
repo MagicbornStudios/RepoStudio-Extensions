@@ -1,0 +1,10 @@
+{
+  "id": "assistant-only",
+  "label": "Assistant Only Studio",
+  "category": "studio-example",
+  "summary": "Chat-only consumer/dev-kit reference extracted from apps/consumer-studio.",
+  "sourceRepoUrl": "https://github.com/MagicbornStudios/RepoStudio-Extensions",
+  "sourcePath": "examples/studios/assistant-only",
+  "docsUrl": "https://github.com/MagicbornStudios/RepoStudio-Extensions/tree/main/examples/studios/assistant-only/README.md",
+  "tags": ["consumer", "assistant", "dev-kit", "reference"]
+}

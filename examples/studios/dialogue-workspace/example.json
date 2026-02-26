@@ -1,0 +1,10 @@
+{
+  "id": "dialogue-workspace",
+  "label": "Dialogue Workspace",
+  "category": "studio-example",
+  "summary": "Reference Studio workspace for dialogue graph editing and assistant integration.",
+  "sourceRepoUrl": "https://github.com/MagicbornStudios/RepoStudio-Extensions",
+  "sourcePath": "examples/studios/dialogue-workspace",
+  "docsUrl": "https://github.com/MagicbornStudios/RepoStudio-Extensions/tree/main/examples/studios/dialogue-workspace/README.md",
+  "tags": ["studio", "dialogue", "graph", "workspace", "reference"]
+}
